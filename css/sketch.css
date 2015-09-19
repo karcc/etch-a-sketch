@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#navBar{
+	width: 100%;
+	text-align: center;
+	display: block;
+	margin: 30px auto;
+
+}
+
+#preference{
+	width: 100%;
+	text-align: center;
+	display: block;
+	margin: 30px auto;
+}
+
+#container {
+	height: 960px;
+	width: 960px;
+	margin: 30px auto;
+	overflow: hidden;
+
+}
+
+.grid {
+	background-color: #0B233A;
+	display: inline-block;
+	float: left;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+}
